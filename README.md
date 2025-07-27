@@ -23,3 +23,12 @@
  설치 : npm i gsap@3.12.1 scrolltrigger
  사용 : import {gsap} grom 'gsap/all';
 
+# framer-motion
+
+설치 : npm i framer-motion
+사용 : ipport {motion} from 'framer-motion';
+
+=>
+
+mpm i motion
+ipport {motion} from 'motion/react';
